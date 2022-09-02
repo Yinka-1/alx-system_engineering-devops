@@ -1,1 +1,1 @@
-Writing scripts
+Learning about shell permissions
